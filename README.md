@@ -1,7 +1,7 @@
+Decentralization internet coin (DIC)
+Decentralization internet coin
 
-Daikicoin
-
-Daikicoin is a POW\PoS -based cryptocurrency.
+Decentralization internet coin is a POW\PoS -based cryptocurrency.
 
 SPECIFICATIONS
 
@@ -12,9 +12,9 @@ Type:PoW/PoS
 
 Time blocks: 60 sec.
 
-POW: 6000 blocks
+POW: 600,000 blocks
 
-Total coins: 1000,000,000
+Total coins: 6,000000,000,000
 
 
 RPC 8568 
